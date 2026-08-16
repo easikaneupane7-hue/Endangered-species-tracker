@@ -1,0 +1,35 @@
+[theme]
+base = "dark"
+primaryColor = "#79E29D"
+backgroundColor = "#0B1411"
+secondaryBackgroundColor = "#142A20"
+textColor = "#F2FFF5"
+borderColor = "#326348"
+greenColor = "#79E29D"
+yellowColor = "#FFD166"
+orangeColor = "#FF9F5A"
+redColor = "#FF6B6B"
+blueColor = "#82C8FF"
+violetColor = "#C6A6FF"
+grayColor = "#AABBB0"
+chartCategoricalColors = ["#79E29D", "#82C8FF", "#FFD166", "#FF9F5A", "#FF6B6B", "#C6A6FF"]
+chartSequentialColors = ["#10231A", "#163524", "#1C4930", "#245E3D", "#31764B", "#47945C", "#65B874", "#85D990", "#A9E8B0", "#D3F5D7"]
+baseRadius = "large"
+buttonRadius = "large"
+showWidgetBorder = true
+showSidebarBorder = true
+font = "sans-serif"
+headingFont = "serif"
+baseFontSize = 16
+headingFontSizes = ["38px", "29px", "23px", "19px", "16px", "14px"]
+headingFontWeights = [650, 650, 600, 600, 550, 550]
+
+[theme.sidebar]
+backgroundColor = "#0E1D16"
+secondaryBackgroundColor = "#183524"
+textColor = "#F2FFF5"
+borderColor = "#326348"
+primaryColor = "#79E29D"
+
+[server]
+address = "localhost"

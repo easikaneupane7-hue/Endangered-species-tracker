@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title description">
+  <title id="title">Wildlife image placeholder</title>
+  <desc id="description">A forest-green illustration of mountains, trees, and a paw print.</desc>
+  <rect width="800" height="520" fill="#EAF4E7"/>
+  <path d="M0 345 180 170 345 345 505 115 800 345V520H0Z" fill="#609966"/>
+  <path d="M0 400 230 245 390 400 575 210 800 400V520H0Z" fill="#1D6B42"/>
+  <g fill="#163F2B">
+    <path d="M105 455V305l-54 90h34l-49 60h138l-49-60h34z"/>
+    <path d="M690 455V275l-60 105h38l-55 75h154l-55-75h38z"/>
+  </g>
+  <g fill="#F8FCF7">
+    <circle cx="398" cy="315" r="38"/>
+    <circle cx="332" cy="265" r="27"/>
+    <circle cx="382" cy="235" r="27"/>
+    <circle cx="432" cy="235" r="27"/>
+    <circle cx="482" cy="265" r="27"/>
+  </g>
+  <text x="400" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#F8FCF7">Wildlife image not available</text>
+</svg>
