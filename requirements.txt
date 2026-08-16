@@ -3,5 +3,5 @@ pandas>=2.2,<3
 gspread>=6.1,<7
 google-auth>=2.32,<3
 plotly>=5.22,<6
-Pillow>=10.4,<11
+Pillow>=11,<13
 tomli>=2.0,<3; python_version < "3.11"
